@@ -4,7 +4,7 @@
 
 -- 1. How many Toastmasters events are there using LetsMeet in New York, Chicago and San Francisco?
 /*
-- There are approximatley 1,117 events hosted by Toastmasters on LetsMeet.
+- There are approximately 1,117 events hosted by Toastmasters on LetsMeet.
 - There are 986 Toastmasters events in Chicago, 124 in New York, and 7 in San Francisco
 */
 
